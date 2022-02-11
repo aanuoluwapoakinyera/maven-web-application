@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Software Solutions, DevOps Unit.</h1>
-<h2 align="center">Senior DevOps Financial Projects Manager - Aanu Akinyera</h2>
+<h2 align="center">Senior DevOps Financial Projects Manager - Aanu Akinyera (Jenkins, Docker & Kubernetes)</h2>
 <h1 align="center">We are developing and supporting quality Software Solutions on Containers to millions of clients.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
