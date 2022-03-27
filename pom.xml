@@ -105,7 +105,7 @@
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 		<!-- Docker Nexus IP & port - Update below -->
-	      <url>http://18.116.240.211:4000/repository/ebay-bts-snapshot/</url>
+	      <url>http://18.116.240.211:4000/repository/ci-job-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
